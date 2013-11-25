@@ -70,7 +70,7 @@ public class soundCloudTest {
     	driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
     	
     	//Checking if the saved path is displayed after the upload. This will return True or False based on the outcome.
-    	return progressBar.getText().contains("/AppData/Local/Temp/");
+    	return progressBar.getText().contains("saved as:");
     }
     
     
