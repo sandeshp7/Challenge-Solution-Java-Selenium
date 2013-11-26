@@ -4,10 +4,6 @@
 
 ### This is an automated test script written using java with selenium webdriver
 
-This application works but has no tests. Please add tests to this project so that
-it is covered to a level you feel comfortable with. You will not have so much
-time so we do not expect full coverage. It's up to you to decide what you want
-to show us.
 
 ### soundCloudTest.java consists of 3 test methods, testing the below mentioned functionality
 
